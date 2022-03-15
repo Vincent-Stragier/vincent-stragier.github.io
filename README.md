@@ -1,6 +1,7 @@
 # Vincent STRAGIER's Portfolio
 
 **One page Website/Portfolio Template for Minimal Portfolio. Forked from [Adir El's GitHub Project](https://github.com/adirel/adirel.github.io).**
+
 ![Website](https://img.shields.io/website?style=flat-square&url=https://vincent-stragier.github.io)
 ![GitHub top language](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub issues](https://img.shields.io/github/issues/vincent-stragier/vincent-stragier.github.io)
